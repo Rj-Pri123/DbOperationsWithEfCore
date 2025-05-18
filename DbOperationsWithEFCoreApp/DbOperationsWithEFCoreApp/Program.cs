@@ -1,4 +1,4 @@
-
+ 
 namespace DbOperationsWithEFCoreApp
 {
     public class Program

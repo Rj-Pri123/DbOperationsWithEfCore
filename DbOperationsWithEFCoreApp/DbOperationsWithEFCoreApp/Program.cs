@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 using DbOperationsWithEFCoreApp.Data;
 using Microsoft.EntityFrameworkCore;
 
+=======
+ 
+>>>>>>> 6c8e94a2b20fee963ee95c3921b11a6c958896f3
 namespace DbOperationsWithEFCoreApp
 {
     public class Program
